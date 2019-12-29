@@ -1,0 +1,31 @@
+{
+    "log_config": {
+        "__COMMENT" : "log levels: debug:30|info:40|warning:50|error:60",
+        "console_log_level": 30,
+        "file_log_level": 30,
+        "use_file": true,
+        "use_console": true,
+        "log_filename": "JobServerLog.txt"
+  },
+    "LOCALHOST_mysql_config": {
+        "host": "127.0.0.1",
+        "username": "root",
+        "password": "password",
+        "database_name": "cygnus",
+        "table_name": "JobServerJobs"
+  },
+    "mysql_config": {
+        "host": "10.0.2.152",
+        "username": "cygnusa",
+        "password": "cygnusa",
+        "database_name": "cygnusa",
+        "table_name": "JobServerJobs"
+    },
+  "server_config": {
+      "host": "10.0.2.39",
+      "port": 9000
+  },
+    "service_discovery_config": {
+        "service_discovery_url": "http://msblack:7777/1.0/available-services"
+    }
+}

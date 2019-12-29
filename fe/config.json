@@ -1,0 +1,34 @@
+{
+    "me" : {
+        "internal_host" : "10.0.2.152",
+        "internal_port" : 1718,
+        "external_host" : "10.0.2.152",
+        "external_port" : 1717
+    },
+    "database" : {
+        "db_type" : "mysql",
+        "db_host" : "10.0.2.152",
+        "db_port" : 3306,
+        "db_user" : "cygnusa",
+        "db_password" : "cygnusa",
+        "database" : "cygnusa",
+        "db_flags" : "?parseTime=true"
+    },
+    "jobs" : {
+        "server_host" : "10.0.2.151",
+        "server_port" : 9000,
+        "server_name" : "job_server",
+        "available_services_url" : "http://10.0.2.152:7777/1.0/available-services"
+    },
+    "billing" : {
+    },
+    "storage" : {
+        "server_host" : "msblack",
+        "server_port" : 9500,
+        "server_name" : "file_storage"
+    },
+    "service_discovery" : {
+        "server_host" : "msblack",
+        "server_port" : 9988
+    }
+}

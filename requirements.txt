@@ -1,0 +1,7 @@
+gorilla/mux:    go get -u github.com/gorilla/mux
+mysql:          go get github.com/go-sql-driver/mysql
+go-uuid:        go get github.com/twinj/uuid
+magmicmime:
+    libmagic-dev:   sudo apt-get install libmagic-dev
+    magicmime:      go get github.com/rakyll/magicmime
+

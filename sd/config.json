@@ -1,0 +1,16 @@
+{
+    "me" : {
+        "listen_host" : "10.0.2.152",
+        "listen_port" : 7777
+    },
+    "database" : {
+        "db_type" : "mysql",
+        "db_host" : "10.0.2.152",
+        "db_port" : 3306,
+        "db_user" : "cygnusa",
+        "db_password" : "cygnusa",
+        "database" : "cygnusa",
+        "db_flags" : "?parseTime=true"
+    },
+    "heartbeat_interval" : 15
+}
