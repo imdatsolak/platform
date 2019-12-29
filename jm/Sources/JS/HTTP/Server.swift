@@ -2,9 +2,6 @@
 //  Express.swift
 //  JobServer
 //
-//  Created by Dmytro Naumov on 22.05.18.
-//  Copyright © 2018 Dmytro Naumov. All rights reserved.
-//
 
 import Foundation
 import NIO

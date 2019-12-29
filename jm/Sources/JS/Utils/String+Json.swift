@@ -2,8 +2,6 @@
 //  String+Json.swift
 //  JobServer
 //
-//  Created by Dmytro Naumov on 19.06.18.
-//
 
 import Foundation
 

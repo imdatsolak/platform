@@ -2,9 +2,6 @@
 //  MySqlDatabaseProvider.swift
 //  JobServer
 //
-//  Created by Dmytro Naumov on 04.06.18.
-//  Copyright © 2018 Dmytro Naumov. All rights reserved.
-//
 
 import Foundation
 import PerfectMySQL

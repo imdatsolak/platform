@@ -2,8 +2,6 @@
 //  Log.swift
 //  JobServer
 //
-//  Created by Dmytro Naumov on 13.06.18.
-//
 
 import Foundation
 

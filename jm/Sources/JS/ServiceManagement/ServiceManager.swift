@@ -2,8 +2,6 @@
 //  ServiceManager.swift
 //  JobServer
 //
-//  Created by Dmytro Naumov on 15.06.18.
-//
 
 import Foundation
 
